@@ -1,7 +1,7 @@
 <div align="center">
 	<img src="Media/AppIcon.png" width="90">
 	<h1>Blear</h1>
-	<h5>Transform your photos into stunning blurry wallpapers on your iOS device</h4>
+	<h5>iOS機器で画像の背景をぼかすようにしてくれる便利なアプリを開発しました。</h4>
 	<br>
 	<h4>
 		<a href="https://sindresorhus.com/blear">Website</a>
@@ -13,16 +13,8 @@
 <br>
 <br>
 
-## Info
+## iOS16以上のデバイスでうまく機能します。
 
-Requires minimum iOS 16.
-
-## FAQ
-
-### Can you add more bundled images?
-
-The bundled images are just meant to be able to quickly try out the app. The point is to use your own images or from a service like Unsplash.
-
-### Can you support Unsplash?
-
-I don't plan to integrate with Unsplash. There is a better way. Save the images you want in the [Unsplash](https://apps.apple.com/us/app/unsplash/id1290631746) app, open the Photos app, go to one of the images, tap the share button, and tap “Make Blurry Wallpaper”.
+制作: fantasydev1225@gmail.com
+ご質問がございましたら、いつでもご連絡ください。
+ありがとうございます。
